@@ -12,7 +12,7 @@ Group project for the course *Introduction to Machine Learning*.
 
 **Task 1b.** `Task 1a` + Feature transformation
 
-**Task 2.** A detailed description can be found [here](task2_s92hdjw2/README.md).
+**Task 2.** A detailed description can be found [here](task2/README.md).
 
 **Task 3.** Given a sequence of 4 alphabets (molecules), classify the sequence into 1 (active) or 0 (inactive).
 
